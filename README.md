@@ -30,7 +30,7 @@ If you're looking for a reliable and experienced mobile software engineer to hel
 
 
 ## Rapidfire  
-<table style="border: none"><tr><td valign="top" width="50%">
+<table style="border: none"><tr style="border: none"><td valign="top" width="50%" style="border: none">
 
 - 🔭 I’m currently working for [Cegeka](https://www.linkedin.com/search/results/all/?keywords=cegeka&origin=GLOBAL_SEARCH_HEADER&sid=%2C3r)  
   
