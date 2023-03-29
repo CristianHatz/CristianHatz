@@ -38,7 +38,7 @@ If you're looking for a reliable and experienced mobile software engineer to hel
 - 🌱 I’m currently improving my React Native animations and generating dynamic configurable flows based on JSONs  
   
 
-- ❓ Ask me about anything React Native  
+- ❓ Ask me about React Native  
   
 
 - ⚡ Fun fact: I copy 5 times to paste once   
