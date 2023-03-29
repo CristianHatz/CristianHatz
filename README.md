@@ -86,7 +86,7 @@ If you're looking for a reliable and experienced mobile software engineer to hel
 
 <img src="https://github-readme-stats.vercel.app/api?username=cristianhatz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td style="border: none" border="none"><td valign="top" width="50%">
+</td style="border: none" border="none"><td valign="top" width="50%" style="border: none">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianhatz&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
